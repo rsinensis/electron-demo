@@ -1,0 +1,28 @@
+{
+    "menu": {
+        "file": {
+            "label": "File",
+            "exit": "Exit app"
+        },
+        "help": {
+            "label": "Help",
+            "home": "Home page",
+            "about": "About"
+        },
+        "view": {
+            "label": "View",
+            "fullscreen": "Full screen",
+            "minimize": "Minimize"
+        },
+        "lang": {
+            "label": "Language",
+            "zh": "中文",
+            "en": "English"
+        }
+    },
+    "view": {
+        "about": {
+            "title": "about"
+        }
+    }
+}
